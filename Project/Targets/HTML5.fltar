@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  Skin="/Project/Skins/NewSkin2.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/styles.css"
+  EquationsOutputType="SVG"
+  MasterPage="/Content/Resources/PageLayouts/OtherTopics.flmsp"
+  CentralLinkIds=""
+  TargetLanguage="en-us"
+  OutputAnalyticsServer="https://madcloudapitest.azurewebsites.net/"
+  OutputAnalyticsLicenseId="3850"
+  LiveHelpType="Disabled"
+  MasterToc="/Project/TOCs/Primary.fltoc"
+  AliasFile="/Project/Advanced/CSH/AliasFile.flali"
+  ContentInclusionType="All"
+  ELearningToolbarSkin="/Project/Skins/elearning.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <MetaTags>
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+    <meta
+      http-equiv="Cache-Control"
+      content="no-cache, no-store, must-revalidate" />
+    <meta
+      http-equiv="Pragma"
+      content="no-cache" />
+    <meta
+      http-equiv="Expires"
+      content="0" />
+  </MetaTags>
+</CatapultTarget>
